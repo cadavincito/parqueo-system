@@ -1,2 +1,5 @@
 streamlit==1.31.0
-pyserial==3.5
+fastapi==0.103.0
+uvicorn==0.23.2
+pydantic==2.4.2
+pyngrok==6.0.0
